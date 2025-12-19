@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**mord-tirith/mord-tirith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<pre>
+<strong>~ whoami</strong>
+mord-tirith
+<strong>~</strong>
+<strong>~ groups</strong>
+C_dev Python_dev
+<strong>~</strong>
+<strong>~ pwd</strong>
+mord-tirith/projects/techtonics
+<strong>~</strong>
+<strong>~ ls</strong> ~/projects/*
+<a href="https://github.com/mord-tirith/42_Milestone_0">Milestone_0</a> <a href="https://github.com/mord-tirith/42_Milestone_1">Milestone_1</a> <a href="https://github.com/mord-tirith/42_Milestone_2">Milestone_2</a> <a href="https://github.com/mord-tirith/42_Milestone_3">Milestone_3</a> <a href="https://github.com/mord-tirith/techtonics">Techtonics</a>
+<strong>~</strong>
+~ langs
+C          ████████████ 61%
+Shell      █████ 25%
+Makefile   █ 6%
+C++        █ 6%
+Python       2%
+<strong>~</strong> _
+</pre>
+test
